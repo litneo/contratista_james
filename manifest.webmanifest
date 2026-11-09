@@ -1,0 +1,31 @@
+{
+  "name": "Control Técnico — Electricidad y Cámaras",
+  "short_name": "Control Técnico",
+  "description": "Clientes, trabajos, servicios y cotizaciones en SQLite local",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#f2f6fc",
+  "theme_color": "#132c4a",
+  "lang": "es",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
